@@ -3,7 +3,7 @@
 # ecoaste
 
 <div style="position: relative; display: inline-block;">
-  <img src="https://i.pinimg.com/originals/c0/44/fc/c044fcf2793fe67f2bb3fb39e62c7f98.gif" width="400" alt="gif" />
+  <img src="https://i.pinimg.com/originals/87/3d/41/873d41099e78464bde2bd3f211572ed3.gif" width="400" alt="gif" />
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%; text-align: center;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=Transformando+ideias+em+linhas+de+codigo" alt="Typing SVG" />
   </div>
