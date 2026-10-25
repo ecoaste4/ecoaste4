@@ -2,7 +2,7 @@
 
 # ecoaste
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+linhas+de+codigo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+linhas+de+codigo" alt="Typing SVG" />
 
 </div>
 
@@ -17,13 +17,13 @@
 ---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ecoaste4&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecoaste4&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ecoaste4&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&icon_color=FFFFFF&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ecoaste4&layout=compact&theme=github_dark&hide_border=true&langs_count=6&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://discord.com/users/ecoaste"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.com/users/SEU_ID_AQUI"><img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white" /></a>
   <code>@ecoaste</code>
 </p>
