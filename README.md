@@ -13,13 +13,13 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=B388FF&width=900&size=22&center=true&lines=Python+%7C+HTML+%7C+JavaScript;Sempre+aprendendo+algo+novo;Construindo+projetos+com+prop%C3%B3sito" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=A855F7&width=900&size=22&center=true&lines=Sempre+aprendendo+algo+novo;Construindo+projetos+com+prop%C3%B3sito;Transformando+ideias+em+c%C3%B3digo" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ecoaste-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/ecoaste-7C3AED?style=flat-square" />
 </div>
 
 <br>
@@ -28,7 +28,22 @@
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://skillicons.dev/icons?i=py&theme=dark">
   <img width="40" src="https://skillicons.dev/icons?i=html&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=css&theme=dark">
   <img width="40" src="https://skillicons.dev/icons?i=js&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=ts&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=java&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=cpp&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=c&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=cs&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=php&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=ruby&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=go&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=rust&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=swift&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=kotlin&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=lua&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=r&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=matlab&theme=dark">
   <img width="40" src="https://skillicons.dev/icons?i=git&theme=dark">
   <img width="40" src="https://skillicons.dev/icons?i=github&theme=dark">
   <img width="40" src="https://skillicons.dev/icons?i=vscode&theme=dark">
@@ -57,7 +72,7 @@
   <br>
   <br>
 
-  [![Discord](https://img.shields.io/badge/Discord-6D28D9?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/users/SEU_ID_AQUI)
+  [![Discord](https://img.shields.io/badge/Discord-7C3AED?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/users/SEU_ID_AQUI)
   
 </div>
 
@@ -78,7 +93,7 @@
 <br>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ecoaste4&style=flat-square&color=9400D3" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=ecoaste4&style=flat-square&color=7C3AED" /></p> 
 </div>
 
 <br>
