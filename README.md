@@ -5,43 +5,30 @@
 </div>
 
 <div align="center">
-  
-  <b>`プ ロ グ ラ マ`</b>
   <samp>
+      <b>ecoaste</b>
       <br>
-      Hi there! I'm <b>ecoaste</b>
+      Transformando ideias em linhas de código
   </samp>
 </div>
 
 <div align="center" width="100%">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=B388FF&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Developer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=B388FF&width=900&size=22&center=true&lines=Python+%7C+HTML+%7C+JavaScript;Sempre+aprendendo+algo+novo;Construindo+projetos+com+prop%C3%B3sito" alt="Typing SVG"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ecoaste-6D28D9" />
+  <img src="https://img.shields.io/badge/ecoaste-6D28D9?style=flat-square" />
 </div>
-      
+
 <br>
 <br>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://skillicons.dev/icons?i=py&theme=dark">
   <img width="40" src="https://skillicons.dev/icons?i=html&theme=dark">
-  <img width="40" src="https://skillicons.dev/icons?i=css&theme=dark">
   <img width="40" src="https://skillicons.dev/icons?i=js&theme=dark">
-  <img width="40" src="https://skillicons.dev/icons?i=cpp&theme=dark">
-  <img width="40" src="https://skillicons.dev/icons?i=java&theme=dark">
-  <img width="40" src="https://skillicons.dev/icons?i=bootstrap&theme=dark">
-  <img width="40" src="https://skillicons.dev/icons?i=postgres&theme=dark">
-  <img width="40" src="https://skillicons.dev/icons?i=django&theme=dark">
-  <img width="40" src="https://skillicons.dev/icons?i=flutter&theme=dark">
-  <img width="40" src="https://skillicons.dev/icons?i=dart&theme=dark">
-  <img width="40" src="https://skillicons.dev/icons?i=arduino&theme=dark">
-  <img width="40" src="https://skillicons.dev/icons?i=octave&theme=dark">
-  <img width="40" src="https://skillicons.dev/icons?i=figma&theme=dark">
   <img width="40" src="https://skillicons.dev/icons?i=git&theme=dark">
   <img width="40" src="https://skillicons.dev/icons?i=github&theme=dark">
   <img width="40" src="https://skillicons.dev/icons?i=vscode&theme=dark">
@@ -53,7 +40,7 @@
 <details align="center">  
   <summary>
       <samp>
-        <b>More Info</b>
+        <b>Mais informações</b>
       </samp>
   </summary>
   
@@ -65,9 +52,7 @@
 
 <div align="center">
   <samp>
-    <b>
-      Contact me:
-    </b>
+    <b>Contato</b>
   </samp>
   <br>
   <br>
@@ -79,8 +64,8 @@
 <div align="center">
   <p align="center">
       <samp>
-        ♡ <a href="https://github.com/ecoaste4">github</a> ⊹
-        <a href="https://discord.com/users/SEU_ID_AQUI">discord</a> ♡
+        <a href="https://github.com/ecoaste4">github</a> &nbsp;·&nbsp;
+        <a href="https://discord.com/users/SEU_ID_AQUI">discord</a>
       </samp>
   </p>
 </div>
