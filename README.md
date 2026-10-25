@@ -2,6 +2,8 @@
 
 # ecoaste
 
+<img src="https://i.pinimg.com/originals/c0/44/fc/c044fcf2793fe67f2bb3fb39e62c7f98.gif" width="300" alt="gif" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+linhas+de+codigo" alt="Typing SVG" />
 
 </div>
