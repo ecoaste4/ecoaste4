@@ -28,23 +28,23 @@
 <br>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Octave-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHub-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg">
+  <img width="40" src="https://skillicons.dev/icons?i=py&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=html&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=css&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=js&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=cpp&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=java&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=bootstrap&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=postgres&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=django&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=flutter&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=dart&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=arduino&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=octave&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=figma&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=git&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=github&theme=dark">
+  <img width="40" src="https://skillicons.dev/icons?i=vscode&theme=dark">
 </div>
 
 <br>
